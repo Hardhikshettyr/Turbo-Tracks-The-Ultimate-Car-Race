@@ -7,7 +7,7 @@ pygame.init()
 w_width = 500
 w_height = 500
 window = pygame.display.set_mode((w_width, w_height))
-pygame.display.set_caption("Car race")
+pygame.display.set_caption("Turbo Tracks: The Ultimate Car Race")
 
 # game variables
 clock = pygame.time.Clock()
